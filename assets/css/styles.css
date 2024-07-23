@@ -1,0 +1,68 @@
+.img__logo--bootstrap{
+    border-radius: 40px !important;
+}
+
+.img__post--rounded{
+    border-radius: 40px !important;
+}
+
+.img__popular--logo{
+    min-height: 300px;
+    max-width: 100%;
+    border-radius: 30px;
+}
+
+.a__text--navbar{
+    color: black;
+    text-decoration: none;
+}
+
+.img__logo--category{
+ max-height: 120px;
+}
+
+.img__logo--post{
+    max-height: 30px;
+}
+
+.div__bg--html{
+    border-radius: 30px;
+    background-color: #d1382b;
+}
+
+.div__bg--js{
+    border-radius: 30px;
+    background-color: #f7e018;
+}
+
+.div__bg--css{
+    border-radius: 30px;
+    background-color: #2ba2d8;
+}   
+
+.div__bg--react{
+    border-radius: 30px;
+    background-color: #292c33;
+}
+
+.div__bg--vue{
+    border-radius: 30px;
+    background-color: #31475e;
+}
+
+.div__bg--bootstrap{
+    border-radius: 30px;
+    background-color: #563d7c;
+}
+
+.strong__text--footer{
+    font-size: 48px;
+    color: black;
+    text-decoration: none;
+}
+
+.img__logo--text{
+    color: white;
+    text-decoration: none;
+    font-size: 50px;
+}
